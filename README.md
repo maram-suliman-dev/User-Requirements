@@ -1,4 +1,4 @@
-# 🧩 User Requirements Presentation
+#  User Requirements Presentation
 
 This repository contains a presentation titled:  
 **"Handling User Requirements: From Gathering to Validation"**  
@@ -6,7 +6,7 @@ Presented as part of the Makeen Bootcamp training.
 
 ---
 
-## 📌 About the Presentation
+## About the Presentation
 
 The slides walk through the following key topics:
 - What are user requirements?
@@ -19,13 +19,13 @@ The slides walk through the following key topics:
 
 ---
 
-## 📎 File Included
+## File Included
 
 - `User Requirements.pdf`: The full slide presentation 
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 This presentation was created to demonstrate how to:
 - Understand user needs
@@ -34,7 +34,7 @@ This presentation was created to demonstrate how to:
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
 - Maram Albarhoomi  
 - Software Engineering Trainee – Makeen Bootcamp
